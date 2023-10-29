@@ -6,9 +6,8 @@ Proyek ini adalah demonstrasi cara membuat pesanan menggunakan bearer token oten
 
 - [Tools](#Tools)
 - [Penggunaan](#penggunaan)
-- [Tangkapan Laya](#tangkapan-layar)
 - [Dokumentasi](#dokumentasi)
-- [Contoh Kode](#contoh-kode)
+- [Kode](#kode)
 
 ## Tools
 
@@ -27,12 +26,11 @@ Cara menggunakan proyek ini:
 3. Manage kode nya Visual Studio Code
 4. Cypress Akan mejadi tools utama untuk Pengujian Otomatisnya
 
-## Tangkapan Layar
 
 ## Dokumentasi
 https://www.canva.com/design/DAFyowLOA4I/Ms8XI1J0uIvw14PhEsZbwA/edit?utm_content=DAFyowLOA4I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Contoh Kode
+## Kode
 
 ```javascript
 // Contoh kode untuk membuat pesanan menggunakan bearer token
