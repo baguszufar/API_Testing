@@ -1,6 +1,4 @@
-# Portofolio: Membuat Pesanan Menggunakan Bearer Token Otentikasi
-
-Proyek ini adalah demonstrasi cara membuat pesanan menggunakan bearer token otentikasi dalam konteks pengujian API.
+# Membuat Pesanan Menggunakan Bearer Token Otentikasi
 
 ## Daftar Isi
 
@@ -11,7 +9,7 @@ Proyek ini adalah demonstrasi cara membuat pesanan menggunakan bearer token oten
 
 ## Tools
 
-Langkah-langkah untuk menginstal proyek dan dependensi yang diperlukan:
+Menginstal Tools yang diperlukan:
 
 1. Postman
 2. Cypress
