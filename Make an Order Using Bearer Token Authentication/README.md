@@ -26,7 +26,7 @@ Cara menggunakan proyek ini:
 
 
 ## Dokumentasi
-https://www.canva.com/design/DAFyowLOA4I/Ms8XI1J0uIvw14PhEsZbwA/edit?utm_content=DAFyowLOA4I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Slide](https://www.canva.com/design/DAFyowLOA4I/Ms8XI1J0uIvw14PhEsZbwA/edit?utm_content=DAFyowLOA4I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Kode
 
